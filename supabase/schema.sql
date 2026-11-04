@@ -373,3 +373,4 @@ END;
 $$;
 
 GRANT EXECUTE ON FUNCTION public.change_task_status(UUID, task_status, TEXT) TO authenticated;
+

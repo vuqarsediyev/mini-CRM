@@ -44,3 +44,4 @@
    VITE_SUPABASE_ANON_KEY=ваш_anon_публичный_ключ
    ```
 4. Запустите фронтенд: `npm run dev`.
+

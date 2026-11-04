@@ -58,3 +58,4 @@ export interface AllowedTransition {
   requiresComment: boolean;
   label: string;
 }
+
